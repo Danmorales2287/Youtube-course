@@ -1,0 +1,194 @@
+p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.tahoma {
+  font-family: Tahoma;
+  font-weight: 600;
+  font-size: 30px;
+}
+
+.deal {
+  font-family: Arial;
+}
+
+.deal-header {
+  font-weight: bold;
+  font-size: 25px;
+  margin-top: 50px;
+  margin-bottom: 7px;
+}
+
+.deal-body {
+  font-size: 18px;
+  color: red;
+  font-style: italic;
+  margin-bottom: 50px;
+}
+
+.verdana {
+  font-family: Verdana;
+}
+
+.verdana-header {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.verdana-bio {
+  font-size: 16px;
+  color: gray;
+  margin-bottom: 18px;
+}
+
+.verdana-paragraph {
+  width: 280px;
+  margin-bottom: 22px;
+}
+
+.verdana-button {
+  background-color: green;
+  color: white;
+  border: 0px;
+  padding: 8px 25px;
+  border-radius: 10px;
+  box-shadow: 2px 5px rgb(155, 155, 155);
+  margin-bottom: 50px;
+}
+
+.verdana-button:hover {
+  opacity: 70%;
+  cursor: pointer;
+}
+
+.verdana-button:active {
+  margin-top: 5px;
+  margin-left: 2px;
+  box-shadow: none;
+  margin-bottom: 45px;
+}
+
+.apple {
+  font-family: Arial;
+  text-align: center;
+}
+
+.apple-header {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.apple-bio {
+  margin-bottom: 15px;
+}
+
+.apple-link {
+  color: #06c;
+  margin-bottom: 50px;
+}
+
+.apple-link:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.mac {
+  font-family: Arial;
+  text-align: center;
+}
+
+.mac-new {
+  color: rgb(224, 123, 0);
+  margin-bottom: 5px;
+}
+
+.mac-title {
+  font-size: 25px;
+  font-weight: 600;
+  margin-bottom: 0px;
+}
+
+.mac-supercharged {
+  font-size: 40px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.mac-price {
+  margin-bottom: 20px;
+}
+
+.mac-button-p {
+  margin-bottom: 50px;
+}
+
+.mac-button {
+  background-color: rgb(0, 113, 227);
+  color: white;
+  padding: 7px 15px;
+  border-radius: 30px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.stock {
+  font-family: Arial;
+}
+
+.stock-main {
+  font-size: 25px;
+  margin-bottom: 8px;
+}
+
+.stock-currency {
+  padding-left: 8px;
+  font-size: 18px;
+  color: rgb(100, 100, 100);
+}
+
+.stock-change {
+  color: green;
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+.stock-after {
+  color: rgb(100, 100, 100);
+  font-size: 16px;
+  margin-bottom: 50px;
+}
+
+.stock-negative {
+  color: rgb(203, 1, 1);
+}
+
+.camp {
+  font-family: Arial;
+  width: 500px;
+}
+
+.camp-title {
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.camp-handle {
+  color: gray;
+  font-weight: 500;
+}
+
+.camp-bio {
+  margin-bottom: 20px;
+}
+
+.camp-outline {
+  margin-bottom: 50px;
+}
+
+.camp-blue {
+  color: rgb(93, 153, 213);
+  cursor: pointer;
+}

@@ -1,0 +1,74 @@
+img{
+    width: 200px;
+    margin-bottom: 50px;
+}
+
+.cat{
+    border-radius: 25px;
+}
+
+.two{
+    height: 200px;
+    object-fit: cover;
+    object-position: left;
+}
+
+.three{
+    height: 200px;
+    object-fit: cover;
+    object-position: left;
+    border-radius: 100px;
+}
+
+.search{
+    padding: 10px 50px 10px 0px;
+    border: 1.5px solid rgb(193, 193, 193);
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+
+::placeholder{
+    padding-left: 10px;
+    font-family: Arial;
+    font-size: 15px;
+    width: 500px;
+}
+
+.google-search{
+    padding: 10px 500px 10px 0px;
+    border-radius: 30px;
+    border: 0px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.f{
+    font-family: Arial;
+}
+
+.femail{
+    color: rgb(123, 123, 123);
+    margin-bottom: 10px;
+}
+.finput{
+    padding: 5px 100px;
+    margin-bottom: 10px;
+}
+
+.fbio{
+    color: rgb(123, 123, 123);
+    font-size: 13px;
+}
+
+.fbutton{
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 15px 120px;
+    border-radius: 30px;
+    margin-bottom: 50px;
+}
+
+.fbutton:hover{
+    cursor: pointer;
+    opacity: 75%;
+}

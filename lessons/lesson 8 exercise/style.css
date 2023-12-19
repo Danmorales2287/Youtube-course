@@ -1,0 +1,100 @@
+.a8{
+    display: block;
+}
+
+.p{
+    width: 200px;
+}
+
+.b8{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.c8logo{
+    width: 250px;
+    margin-left: 205px;
+    display:block;
+
+}
+
+.google-search{
+    margin-left: 110px;
+    padding: 10px 300px 10px 0px;
+    border-radius: 30px;
+    border: 0px;
+    box-shadow: 0 4px 8px 0 rgba(97, 97, 97, 0.2), 0 6px 20px 0 rgba(72, 72, 72, 0.19);
+    margin-bottom: 50px;
+}
+
+input::placeholder{
+    overflow: visible
+}
+
+input:focus{
+    outline: none;
+}
+
+
+.d8-name{
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: 1px solid grey;
+    margin-bottom: 13px;
+}
+
+.d8-email{
+    display: block;
+    width: 340px;
+    height: 30px;
+    border-radius: 10px;
+    border: 1px solid grey;
+    margin-bottom: 13px;
+}
+
+.d8-button{
+    background-color: rgb(81, 92, 243);
+    color: white;
+    font-weight: bold;
+    padding: 15px 148px;
+    border: none;
+    border-radius: 7px;
+    margin-bottom: 50px;
+}
+
+.e8-p{
+    font-family: arial;
+    font-size: 35px;
+    margin-top: 2px;
+    margin-bottom: 15px;
+}
+
+.e8-enter{
+    display:block;
+    border: none;
+    background-color: rgb(238, 238, 238);
+    height: 40px;
+    width: 300px;
+    margin-bottom: 5px;
+    border-radius: 3px;
+}
+
+.e8-button{
+    margin-top: 20px;
+    margin-right: 15px;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 2px;
+}
+.e8-button:hover{
+    opacity: 75%;
+}
+
+.e8-request{
+    background-color: black;
+    color: white;
+}
+
+.e8-schedule:hover{
+    background-color: rgb(218, 218, 218);
+}

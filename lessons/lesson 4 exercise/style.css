@@ -1,0 +1,45 @@
+.Pagination{
+    margin: 5px 10px;
+}
+
+.paginationButton{
+    margin: 5px 3px;
+}
+
+.b{
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    border: 0px;
+    padding: 10px 15px;
+}
+
+.stretch{
+    transition-duration: 1s;
+}
+
+.stretch:hover{
+    padding: 25px 50px;
+    cursor: pointer;
+}
+
+.shadow{
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3)
+}
+
+.shadow:active{
+    margin-top: 3px;
+    margin-left: 3px;
+    box-shadow: none;
+}
+
+
+
+.spacing{
+    margin: 10px 10px;
+}
+
+.spacing:hover{
+    padding: 10px 35px;
+    margin: 10px -10px;
+}

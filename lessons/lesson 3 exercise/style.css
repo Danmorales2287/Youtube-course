@@ -1,0 +1,111 @@
+.Uber {
+    background-color: black;
+    color: white;
+    border: 0px;
+    font-weight: 525;
+    font-size: 15px;
+    margin: 15px;
+    padding: 15px 25px;
+  }
+  .Uber:hover {
+    opacity: 75%;
+    cursor: pointer;
+  }
+
+  .Amazon {
+    background-color: rgb(255, 204, 0);
+    color: black;
+    border: 0px;
+    font-weight: 525;
+    font-size: 15px;
+    border-radius: 25px;
+    margin: 15px;
+    padding: 15px 65px;
+  }
+  .Amazon:hover {
+    background-color: rgb(214, 172, 1);
+    cursor: pointer;
+  }
+
+  .Github {
+    background-color: green;
+    color: white;
+    border: 0px;
+    font-weight: 750;
+    font-size: 15px;
+    margin: 15px;
+    padding: 15px 25px;
+    border-radius: 10px;
+  }
+  .Github:hover {
+    box-shadow: 2px 7px 10px rgb(0, 0, 0, 0.3);
+    cursor: pointer;
+  }
+
+  .Bootstrap {
+    background-color: #6f42c1;
+    color: white;
+    border: 0px;
+    font-weight: 750;
+    font-size: 15px;
+    margin: 15px 0px 15px 15px;
+    padding: 15px 35px;
+    border-radius: 6px;
+    border: 1px solid black;
+  }
+  .Bootstrap:hover {
+    transition: .5s;
+    background-color: #512f8e;
+    cursor: pointer;
+  }
+
+  .BootstrapDownload {
+    background-color: #ffffff;
+    color: rgb(98, 98, 98);
+    font-weight: 750;
+    font-size: 15px;
+    margin: 15px 0px 15px 15px;
+    padding: 15px 30px;
+    border-radius: 6px;
+    border: 1px solid black;
+  }
+  .BootstrapDownload:hover {
+    transition: .5s;
+    background-color: rgb(100, 100, 100);
+    color: white;
+    cursor: pointer;
+  }
+
+  .LinkedIn {
+    background-color: #0A66C2;
+    color: white;
+    border: 0px;
+    border-radius: 25px;
+    font-weight: 800;
+    font-size: 14px;
+    margin: 15px 0px 15px 15px;
+    padding: 15px 25px;
+  }
+  .LinkedIn:hover {
+    transition:.2s;
+    background-color: #06498c;
+    cursor: pointer;
+  }
+
+  .LinkedInSave {
+    background-color: rgb(225, 237, 255);
+    color: #0A66C2;
+    border: 1px solid #0A66C2;
+    border-radius: 25px;
+    font-weight: 800;
+    font-size: 14px;
+    margin: 15px 0px 15px 15px;
+    padding: 15px 25px;
+  }
+  .LinkedInSave:hover {
+    background-color: #e4f2ff;
+    color: #0A66C2;
+    border: 2px solid #0A66C2;
+    margin: 14px -1px 14px 14px;
+    cursor: pointer;
+  }
