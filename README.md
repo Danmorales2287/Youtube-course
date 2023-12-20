@@ -11,6 +11,4 @@ using this course as a refresher to get the basics back
 :)
 
 
-
-this is me making changes on mac and testing 
-# Youtube-course
+lazy commit, i got it on mac now
